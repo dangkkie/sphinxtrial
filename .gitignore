@@ -1,0 +1,5 @@
+#ignoring the virtual environment, DS_Store, build folder, and _templates folder:
+.DS_Store
+trialve
+docs/build
+docs/source/_templates
